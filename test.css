@@ -1,0 +1,119 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: white;
+    /* background-color: blue; */
+    /* background-image: url(../moroccan-flower.png`); */
+    /* background-position: top/center/bottom right/left/center; */
+    /* background-repeat:no-repeat; */
+}
+
+
+.font-styling {
+    font-style: italic;
+    font-variant: normal;
+    /* small-caps */
+    font-weight: bold;
+    /* lighter normal 100-900 bold bolder */
+    font-size: 15px;
+    line-height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* arial */
+}
+
+.text-styling {
+    color: aliceblue;
+    /* #ff0000 */
+    /* rgb(255,0,0) */
+    text-align: center;
+    /* left right center justify */
+    text-indent: 10px;
+    text-decoration: none;
+    /* underline overline line-through */
+    text-transform: none;
+    /* lowercase uppercase capitalize */
+    letter-spacing: normal;
+    word-spacing: 0;
+}
+
+
+/* selector  */
+/* h1,h2 {
+
+} */
+
+/* ul li a {
+
+} */
+
+
+/* #p1 {
+
+}
+
+.p1 {
+
+} */
+
+.cetak-tebal {
+    font-weight: bold;
+}
+
+/* p.cetak-tebal {
+
+} */
+ 
+/* pseudo class */
+/* a:link {
+    color: orange;
+}
+
+a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.clas:first-child{
+
+}
+.clas:last-child{
+
+}
+.clas:nth-child(5){
+
+} 
+.clas:nth-child(5n){
+
+} 
+
+.clas:nth-child(Odd){
+
+} 
+.clas:nth-child(Even){
+
+} 
+
+*/
+
+/* p:first-of-type {
+
+}
+p:last-of-type {
+
+} */
+
+p {
+    color: green;
+}
+
+/* #p {
+    tapi ini lebih dapat
+    color: aliceblue;
+} */
+
+p {
+    color: red; /* yang terakhir yang dapat */
+}
+
